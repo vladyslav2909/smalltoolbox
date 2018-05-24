@@ -1,0 +1,17 @@
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\Small Tool Box.exe.config
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\Small Tool Box.exe
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\Small Tool Box.pdb
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\Small Tool Box.xml
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\MetroFramework.Design.dll
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\MetroFramework.dll
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\x86\Debug\MetroFramework.Fonts.dll
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\aranjarefisiere.aranjare.resources
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\aranjarefisiere.Resource1.resources
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\aranjarefisiere.Resources.resources
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\Small Tool Box.exe
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\Small Tool Box.xml
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\x86\Debug\Small Tool Box.pdb

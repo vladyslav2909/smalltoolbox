@@ -1,0 +1,17 @@
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\MetroFramework.Design.dll
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\MetroFramework.dll
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\MetroFramework.Fonts.dll
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CopyComplete
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\aranjarefisiere.aranjare.resources
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\aranjarefisiere.Resource1.resources
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\aranjarefisiere.Resources.resources
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\Small Tool Box.exe.config
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\Small Tool Box.exe
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\Small Tool Box.pdb
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\bin\Release\Small Tool Box.xml
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\Small Tool Box.exe
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\Small Tool Box.xml
+C:\Users\vladb\source\repos\WindowsApp1\WindowsApp1\obj\Release\Small Tool Box.pdb
